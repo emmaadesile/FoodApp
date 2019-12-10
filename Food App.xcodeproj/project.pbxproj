@@ -15,6 +15,7 @@
 		FA7CB2EA2385CFC100817DFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA7CB2E82385CFC100817DFF /* LaunchScreen.storyboard */; };
 		FA7CB2F52385CFC100817DFF /* Food_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7CB2F42385CFC100817DFF /* Food_AppTests.swift */; };
 		FA7CB3002385CFC100817DFF /* Food_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7CB2FF2385CFC100817DFF /* Food_AppUITests.swift */; };
+		FA8AE368238EBFA900A3E608 /* FoodDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8AE367238EBFA900A3E608 /* FoodDetails.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FA7CB2FB2385CFC100817DFF /* Food AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Food AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA7CB2FF2385CFC100817DFF /* Food_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food_AppUITests.swift; sourceTree = "<group>"; };
 		FA7CB3012385CFC100817DFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA8AE367238EBFA900A3E608 /* FoodDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodDetails.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				FA7CB2DD2385CFBC00817DFF /* AppDelegate.swift */,
 				FA7CB2DF2385CFBC00817DFF /* SceneDelegate.swift */,
 				FA7CB2E12385CFBC00817DFF /* ContentView.swift */,
+				FA8AE367238EBFA900A3E608 /* FoodDetails.swift */,
 				FA7CB2E32385CFC100817DFF /* Assets.xcassets */,
 				FA7CB2E82385CFC100817DFF /* LaunchScreen.storyboard */,
 				FA7CB2EB2385CFC100817DFF /* Info.plist */,
@@ -269,6 +272,7 @@
 			files = (
 				FA7CB2DE2385CFBC00817DFF /* AppDelegate.swift in Sources */,
 				FA7CB2E02385CFBC00817DFF /* SceneDelegate.swift in Sources */,
+				FA8AE368238EBFA900A3E608 /* FoodDetails.swift in Sources */,
 				FA7CB2E22385CFBC00817DFF /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
